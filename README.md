@@ -1,6 +1,8 @@
 # Stock Market Analysis and Screening Tool
 
 This project provides tools to analyze stock market data and screen for potential investment opportunities.
+This project was developed as part of a collaborative academic project.
+My contributions included data preprocessing, trend analysis, and visualization.
 
 ## Features
 
